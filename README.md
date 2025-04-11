@@ -10,6 +10,8 @@ This project has significant potential for improvement:-
 
 ## How to run this project
 
+### Please connect and run the backend files locally from this GitHub repo: https://github.com/Abhishek-Verma1/BackendFiles.
+
 ### `Full React Native Setup via Terminal (iOS + Android)`
 
 ### `1. Install Dependencies (Mininim node version should be 18)`
